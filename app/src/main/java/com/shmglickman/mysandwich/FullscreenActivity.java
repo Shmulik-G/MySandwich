@@ -8,7 +8,7 @@ import android.os.Handler;
 import android.view.MotionEvent;
 import android.view.View;
 
-/*   This is A Remark */
+/*   This is A Remark 1*/
 
 /**
  * An example full-screen activity that shows and hides the system UI (i.e.
